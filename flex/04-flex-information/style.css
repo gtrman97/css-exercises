@@ -19,7 +19,6 @@ body {
   padding: 10%;
 
 }
-
 img {
   width: 100px;
   height: 100px;
@@ -30,6 +29,7 @@ img {
   font-size: 36px;
   font-weight: 900;
   text-align: center;
+  margin: 32px;
 }
 
 /* do not edit this footer */
