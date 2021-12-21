@@ -15,7 +15,8 @@ body {
 }
 .text {
   text-align: center;
-  border: solid 2px red;
+  /* border: solid 2px red; */
+  padding: 10%;
 
 }
 
