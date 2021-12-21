@@ -7,13 +7,13 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 52px;
 }
 .section {
   width: 200px;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin: 52px;
 }
 .text {
   text-align: center;
