@@ -12,10 +12,10 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  margin: 52px;
 }
 .text {
   text-align: center;
-  /* border: solid 2px red; */
   padding: 10%;
 
 }
