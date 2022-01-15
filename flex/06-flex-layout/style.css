@@ -10,13 +10,13 @@ body {
   align-items: center;
   flex-direction: column;
 }
-.header {
+.header, .footer {
   display: flex;
   flex-direction: row;
   width: 100vw;
 }
 .left-links, .right-links {
-  border: solid 2px red;
+  /* border: solid 2px red; */
   width: 50vw;
   /* height: 100%; */
   list-style-type: none;
